@@ -9,8 +9,6 @@ GO pathway enrichment: Enrichment.R
 
 Network analysis (Louvain): Network_Louvain_module.py
 
-Trajectory clustering: multiomics_trajectory.R
-
-AI multi-omics risk score: PredictionCode
+AI multimodal prediction: Prediction_model
 
 Two-sample Mendelian randomization: MR.R
